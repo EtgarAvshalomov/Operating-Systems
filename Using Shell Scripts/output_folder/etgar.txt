@@ -1,0 +1,20 @@
+1. This is line one.
+2. Hello, world!
+3. Testing text file.
+4. Line number four.
+5. Fifth line here.
+6. Six lines written.
+7. Seventh line now.
+8. Eight is great.
+9. Nine lines done.
+10. Ten lines complete.
+21. Twenty-one is here.
+22. Twenty-two is next.
+23. Twenty-three is done.
+24. Twenty-four is fine.
+25. Twenty-five is here.
+26. Twenty-six is next.
+27. Twenty-seven is done.
+28. Twenty-eight is fine.
+29. Twenty-nine is here.
+30. Thirty lines complete!

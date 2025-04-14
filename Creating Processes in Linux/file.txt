@@ -1,0 +1,5 @@
+Create file 1.txt
+Create dir dir1
+Create copy 3.txt
+Create dir dir2
+Create file etgar.txt
